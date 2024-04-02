@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\28016\\Documents\\A_01 Code\\py\\Sudoku\\Sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A04BC84-5A2F-4CEB-B5EC-A7EB5F7488BA}|Sudoku\\Sudoku.vcxproj|C:\\Users\\28016\\Documents\\A_01 Code\\py\\Sudoku\\Sudoku\\Sudoku\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A04BC84-5A2F-4CEB-B5EC-A7EB5F7488BA}|Sudoku\\Sudoku.vcxproj|solutionrelative:Sudoku\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solution.cpp",
+              "DocumentMoniker": "C:\\Users\\28016\\Documents\\A_01 Code\\py\\Sudoku\\Sudoku\\Sudoku\\solution.cpp",
+              "RelativeDocumentMoniker": "Sudoku\\solution.cpp",
+              "ToolTip": "C:\\Users\\28016\\Documents\\A_01 Code\\py\\Sudoku\\Sudoku\\Sudoku\\solution.cpp",
+              "RelativeToolTip": "Sudoku\\solution.cpp",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAwJ0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T16:05:07.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
